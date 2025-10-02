@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hyasmin96
+- 👋 Hi, I’m Heidy Cardenas.
 - 👀 I’m interested in Quality Assurance, Software Testing, and improving software quality.
 - 🔍 I’m passionate about quality assurance and ensuring that software meets the highest standards before reaching users.
       Currently learning about manual testing methodologies and looking to expand my skills into automation.
