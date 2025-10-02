@@ -1,15 +1,24 @@
-- 👋 Hi, I’m Heidy Cardenas.
-- 👀 I’m interested in Quality Assurance, Software Testing, and improving software quality.
-- 🔍 I’m passionate about quality assurance and ensuring that software meets the highest standards before reaching users.
-      Currently learning about manual testing methodologies and looking to expand my skills into automation.
-- 🚀 I’m always seeking to gain knowledge about the Manual Tester role.
-- 🌱 I’m currently learning about:
-      Automation testing with Cypress
-      API testing with Postman
-- 💞️ I’m looking to collaborate on QA projects, bug hunting, and testing workflows.
-- 📫 You can reach me at: hc3826@gmail.com or connect with me on www.linkedin.com/in/heidy-cardenas.
-- ⚡ Fun fact: I love solving all type of puzzles and challenges, which helps sharpen my analytical skills for testing!
-- 😄 Happy Testing!
+# 👋 Hi, I’m Heidy Cardenas  
+
+## 👩‍💻 About Me  
+- 👀 **Interests:** Quality Assurance, Software Testing, and improving software quality.  
+- 🔍 **Passion:** Ensuring that applications meet the highest standards before reaching users, with a strong focus on defect identification, testing workflows, and continuous improvement.  
+- 🚀 **Growth Mindset:** Always seeking to strengthen my skills as a **Manual Tester** and expand into **Test Automation**.  
+- 🌱 **Currently learning:**  
+  - Automation testing with **Cypress**  
+  - API testing with **Postman**  
+  - **Fullstack Development** at Universidad Galileo (Frontend & Backend).  
+- 💞️ **Collaboration:** Open to contributing to QA projects, bug hunting, testing workflows, and development collaborations.  
+- 📫 **Reach me at:**  
+  - ✉️ Email: **hc3826@gmail.com**  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/heidy-cardenas)  
+- ⚡ **Fun fact:** I love solving puzzles and challenges — they sharpen my analytical skills and help me think critically when testing software.  
+- 😄 *Happy Testing!*  
+
+
+✨ *Thanks for visiting my profile!* ✨  
+
+
 
 
 <!---
